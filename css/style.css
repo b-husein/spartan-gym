@@ -81,17 +81,17 @@ a {
 }
 
 .btn {
-    display: inline-block;
-    color: #fff;
-    background: #b22222; 
-    padding: 1rem 2rem;
-    transition: 0.3s ease;
-    border-radius: 5px;
+  display: inline-block;
+  color: #b22222;
+  background: #fff;
+  padding: 1rem 2rem;
+  transition: 0.3s ease;
+  border-radius: 5px;
 }
 
 .btn:hover {
-    background-color: #fff;
-    color: #000;
+  background-color: #b22222;
+  color: #fff;
 }
 
 /* MEMBERSHIP */
