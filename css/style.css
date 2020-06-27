@@ -82,16 +82,16 @@ a {
 
 .btn {
   display: inline-block;
-  color: #b22222;
-  background: #fff;
+  color: #bfff;
+  background: #b22222;
   padding: 1rem 2rem;
   transition: 0.3s ease;
   border-radius: 5px;
 }
 
 .btn:hover {
-  background-color: #b22222;
-  color: #fff;
+  background-color: #fff;
+  color: #000;
 }
 
 /* MEMBERSHIP */
