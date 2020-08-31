@@ -3,12 +3,6 @@
 
 live version https://b-husein.github.io/spartan-gym/
 
-🔥 FOLLOW ME ON:
-
-🚀 https://github.com/b-husein 
-
-🚀 https://www.linkedin.com/in/pragmaticxyz/
-
 💻 USEFUL PLAYLISTS:
 
 👊 HTML5
